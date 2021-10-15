@@ -1,4 +1,10 @@
 h1{
-    font-weight: bold;
-    
+    font-weight: bold; 
+}
+
+#tabla{
+    color: white;
+    background-color: blue;
+    width: 100%;
+    text-align: center;
 }
